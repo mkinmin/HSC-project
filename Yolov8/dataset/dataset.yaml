@@ -1,0 +1,13 @@
+names:
+- person
+- car
+- truck
+- bus
+- bicycle
+- bike
+- extra_veichle
+- dog
+nc: 8
+test: ../test/images
+train: C:/Users/kimin/YOLO/dataset/train_augmented.txt
+val: C:/Users/kimin/YOLO/dataset/val.txt
